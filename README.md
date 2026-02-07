@@ -107,7 +107,8 @@ The repository will be updated continuously throughout the development phase.
 <img width="369" height="583" alt="image" src="https://github.com/user-attachments/assets/fedb9efd-d72a-4659-a8e5-4cb7891b5a83" />
 <img width="365" height="581" alt="image" src="https://github.com/user-attachments/assets/e9cfb0d4-7d90-40db-8ce4-2d2732a8b2e6" />
 <img width="368" height="618" alt="image" src="https://github.com/user-attachments/assets/eb81c13f-16c8-4df0-8c2c-8cfa5187d348" />
-<img width="368" height="577" alt="image" src="https://github.com/user-attachments/assets/9e9a249b-10c0-4e2a-b0d2-9f719320b391" />
+<img width="369" height="610" alt="image" src="https://github.com/user-attachments/assets/b2734066-f280-4e59-bc79-458be5bbc03f" />
+
 
 
 ## 🎓 Academic Information
