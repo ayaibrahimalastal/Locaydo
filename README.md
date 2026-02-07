@@ -76,6 +76,12 @@ The project follows a structured development approach:
 The main focus is on planning and understanding before implementation.
 
 ---
+## 🚀 Future Work
+
+- In-app chat system
+- Online payment integration
+- Delivery management
+- Notification system
 
 ## 🤝 Team Collaboration (GitHub Workflow)
 
@@ -96,6 +102,21 @@ The main focus is on planning and understanding before implementation.
 The repository will be updated continuously throughout the development phase.
 
 ---
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="[./assets/1.png](https://github.com/user-attachments/assets/ae8375e2-4eb2-4ee7-8082-307e389d4242)" width="23%" alt="Splash Screen" />
+  <img src="[./assets/2.png](https://github.com/user-attachments/assets/aa176d68-2b05-425a-8d8b-f3d02092cfb2)" width="23%" alt="Main Screen" />
+  <img src="[./assets/3.png](https://github.com/user-attachments/assets/2cdfb9ab-34d0-40a7-9752-56fd8cf7e780)" width="23%" alt="Seller Profile" />
+  <img src="[./assets/4.png](https://github.com/user-attachments/assets/f8747de8-b21c-4705-8352-1a1fbc084c59)" width="23%" alt="Product Details" />
+</p>
+
+## 🎓 Academic Information
+
+- University: Al-Azhar University – Gaza
+- Department: Software Engineering
+- Supervisor: Dr. Mohammed Al-Shawwa
+- Year: 2025-2026
 
 ## 👥 Team Members
 
