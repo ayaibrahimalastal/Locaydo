@@ -104,12 +104,11 @@ The repository will be updated continuously throughout the development phase.
 ---
 ## 📱 App Screenshots
 
-<p align="center">
-  <img src="[./assets/1.png](https://github.com/user-attachments/assets/ae8375e2-4eb2-4ee7-8082-307e389d4242)" width="23%" alt="Splash Screen" />
-  <img src="[./assets/2.png](https://github.com/user-attachments/assets/aa176d68-2b05-425a-8d8b-f3d02092cfb2)" width="23%" alt="Main Screen" />
-  <img src="[./assets/3.png](https://github.com/user-attachments/assets/2cdfb9ab-34d0-40a7-9752-56fd8cf7e780)" width="23%" alt="Seller Profile" />
-  <img src="[./assets/4.png](https://github.com/user-attachments/assets/f8747de8-b21c-4705-8352-1a1fbc084c59)" width="23%" alt="Product Details" />
-</p>
+<img width="369" height="583" alt="image" src="https://github.com/user-attachments/assets/fedb9efd-d72a-4659-a8e5-4cb7891b5a83" />
+<img width="365" height="581" alt="image" src="https://github.com/user-attachments/assets/e9cfb0d4-7d90-40db-8ce4-2d2732a8b2e6" />
+<img width="368" height="618" alt="image" src="https://github.com/user-attachments/assets/eb81c13f-16c8-4df0-8c2c-8cfa5187d348" />
+<img width="368" height="577" alt="image" src="https://github.com/user-attachments/assets/9e9a249b-10c0-4e2a-b0d2-9f719320b391" />
+
 
 ## 🎓 Academic Information
 
